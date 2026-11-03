@@ -1,0 +1,20 @@
+{
+  "name": "PocketBudget — Gestió de despeses",
+  "short_name": "PocketBudget",
+  "description": "Controla ingressos, despeses i pressupostos des del teu iPhone.",
+  "lang": "ca",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
